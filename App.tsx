@@ -1,14 +1,10 @@
-import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
+import { MainStack } from './src/routes'
 
-const App = () => {
+const App:React.FC = () => {
   return (
-    <View>
-      <Text>App</Text>
-    </View>
+   <MainStack/>
   )
 }
 
 export default App
-
-const styles = StyleSheet.create({})
