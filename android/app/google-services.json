@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8633664310",
+    "project_id": "firstts-27064",
+    "storage_bucket": "firstts-27064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8633664310:android:c54998fad00caa6fc3a997",
+        "android_client_info": {
+          "package_name": "com.firstts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8633664310-epgff6h5bj03ha1075m0lkeavfbap78e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYrBSRv3gqcVY0Db-Hy0Nmn3rftOR7wag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8633664310-epgff6h5bj03ha1075m0lkeavfbap78e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
